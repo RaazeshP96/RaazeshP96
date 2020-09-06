@@ -4,8 +4,8 @@
 <ul>
   <li>A potterhead and greek mythology enthusianst who mainly programs in <b>Python</b> and has recently ventured out into <b>Js</b>.</li>
   <li>Is trying out <b>ReactJs</b> to see what all the fuss is about and he might actually ❤ it. Likes solving problems on <b>web application</b>.</li>
-  <li>Currently an studing @<b>TU</b> batch of 'o72 studying <b>Bsc CSIT</b>.</li>
-  <li>Contact on: raazeshp96@gmail.com</li>
+  <li>Currently studing @<b>TU</b> batch of 'o72 studying <b>Bsc CSIT</b>.</li>
+  <li>Contact on: <a href = "mailto: raazeshp96@mail.com">raazeshp96@mail.com</a></li>
  </ul>
 <h2 align="center">Language and Technologies I am Familiar to:</h2>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=raazeshp96" alt="raazeshp96" /> </p>
