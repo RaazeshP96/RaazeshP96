@@ -14,7 +14,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raazeshp96&show_icons=true" alt="raazeshp96" /></p>
 <h2 align="center">My Social Media</h2>
 <p align="center">
-  <a href="https://linkedin.com/in/raazesh-prajapati-736775193/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/raazesh-prajapati-736775193/" height="30" width="30" /></a>
+  <a href="https://linkedin.com/in/raazesh-prajapati-736775193/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/raazeshp96/" height="30" width="30" /></a>
   <a href="https://stackoverflow.com/users/11630502/raazesh-prajapati" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/11630502/raazesh-prajapati" height="30" width="30" /></a>
 <a href="https://twitter.com/raazesh_p" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/raazesh_p" height="30" width="30" /></a>
 <a href="https://www.instagram.com/raazesh_p/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/raazesh_p/" height="30" width="30" /></a>
