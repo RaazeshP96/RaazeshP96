@@ -1,21 +1,48 @@
-<h1 align="center">Namaste 👋, I'm Rajesh Prajapati</h1>
-<h3 align="center">A passionate Python/Django developer from Nepal</h3>
-<h2 align="left">About Me:</h2>
-<ul>
-  <li>A potterhead and greek mythology enthusianst who mainly programs in <b>Python</b> and has recently ventured out into <b>Js</b>.</li>
-  <li>Is trying out <b>ReactJs</b> to see what all the fuss is about and he might actually ❤ it. Likes solving problems on <b>web application</b>.</li>
-  <li>Currently finished gradutions @<b>TU</b> batch of 'o72 studying <b>Bsc CSIT</b>.</li>
-  <li>Contact on: <a href = "mailto: raazeshp96@mail.com">raazeshp96@mail.com</a></li>
- </ul>
-<h2 align="center">Language and Technologies I am Familiar to:</h2>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=raazeshp96" alt="raazeshp96" /> </p>
-<p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raazeshp96&layout=compact&hide=html" alt="raazeshp96" /></p>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<h1 align="center">Hi 👋, I'm Rajesh Prajapati</h1>
+<h3 align="center">A passionate software developer from Nepal</h3>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raazeshp96&show_icons=true" alt="raazeshp96" /></p>
-<h2 align="center">My Social Media</h2>
-<p align="center">
-  <a href="https://linkedin.com/in/raazeshp96/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/raazeshp96/" height="30" width="30" /></a>
-  <a href="https://stackoverflow.com/users/11630502/raazesh-prajapati" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackoverflow.com/users/11630502/raazesh-prajapati" height="30" width="30" /></a>
-<a href="https://twitter.com/raazesh_p" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/raazesh_p" height="30" width="30" /></a>
-<a href="https://www.instagram.com/raazesh_p/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/raazesh_p/" height="30" width="30" /></a>
+## 🙋‍♂️ About Me:
+- 🔭 I’m currently working at [Readtowork-org ](https://readytowork.jp/?fbclid=IwAR0Zrl4cZFKD49yyUejtsv3FLsNmaKsOAjFac90xtoIq79HgzBJWK4TCOuE) .
+
+- 🌱 I’m currently learning **Gin gonic framework.**
+
+- 👨‍💻 All of my portfolio are available at [rajeshp96.com.np](https://rajeshp96.com.np/).
+
+- 📝 I regularly write articles on [Medium](https://medium.com/@raazeshp96).
+
+- 💬 Ask me about **python, js ,go and html-css**.
+
+- 📫 How to reach me **raazeshp96@gmail.com**.
+<br/>
+
+
+## Connect with me:
+<p align="left">
+<a href="https://twitter.com/raazesh_p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raazesh_p" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/raazeshp96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raazeshp96" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/raazesh-prajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="raazesh-prajapati" height="30" width="40" /></a>
+<a href="https://medium.com/@raazeshp96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@raazeshp96" height="30" width="40" /></a>
 </p>
+<br/>
+
+
+## 🚀 Languages and Tools:
+<p align="center"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raazeshp96&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="raazeshp96" /></p>
+<br/>
+
+## 📊 My Github Stats:
+<br/>
+<a href="https://github.com/raazeshp96/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raazeshp96&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="raazeshp96" /></a>
+<a href="https://github.com/raazeshp96/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=raazeshp96&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="raazeshp96" /></a>
+<br/>
+
+
+## ❤ Views and Followers:
+<br/>
+<a href="https://github.com/raazeshp96/github-profile-views-counter">
+     <img src="https://komarev.com/ghpvc/?username=raazeshp96&label=Profile%20views&color=0e75b6&style=flat" alt="raazeshp96" /> 
+</a>
+<a href="https://github.com/raazeshp96?tab=followers"><img src="https://img.shields.io/github/followers/raazeshp96?label=Followers&style=social" alt="GitHub Badge"></a>
