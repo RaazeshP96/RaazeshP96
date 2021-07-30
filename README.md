@@ -20,10 +20,10 @@
 
 ## 🔗 Connect with me:
 <p align="left">
-<a href="https://twitter.com/raazesh_p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raazesh_p" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/raazeshp96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raazeshp96" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/raazesh-prajapati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="raazesh-prajapati" height="30" width="40" /></a>
-<a href="https://medium.com/@raazeshp96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@raazeshp96" height="30" width="40" /></a>
+<a href="https://twitter.com/raazesh_p" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raazesh_p" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/raazeshp96" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raazeshp96" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/11630502/raazesh-prajapati" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="raazesh-prajapati" height="30" width="40" /></a>
+<a href="https://medium.com/@raazeshp96" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@raazeshp96" height="30" width="40" /></a>
 </p>
 <br/>
 
