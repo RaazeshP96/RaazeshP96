@@ -18,7 +18,7 @@
 <br/>
 
 
-## Connect with me:
+## 🔗 Connect with me:
 <p align="left">
 <a href="https://twitter.com/raazesh_p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raazesh_p" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/raazeshp96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raazeshp96" height="30" width="40" /></a>
@@ -38,11 +38,15 @@
 <a href="https://github.com/raazeshp96/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raazeshp96&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="raazeshp96" /></a>
 <a href="https://github.com/raazeshp96/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=raazeshp96&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="raazeshp96" /></a>
 <br/>
+<br/>
 
+<a href="https://github.com/raazeshp96/github-readme-activity-graph"><img alt="Raazesh Prajapati's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=raazeshp96&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
 
 ## ❤ Views and Followers:
 <br/>
-<a href="https://github.com/raazeshp96/github-profile-views-counter">
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
      <img src="https://komarev.com/ghpvc/?username=raazeshp96&label=Profile%20views&color=0e75b6&style=flat" alt="raazeshp96" /> 
 </a>
 <a href="https://github.com/raazeshp96?tab=followers"><img src="https://img.shields.io/github/followers/raazeshp96?label=Followers&style=social" alt="GitHub Badge"></a>
