@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@raazeshp96).
 
-- 💬 Ask me about **python, javascript ,golang and html-css**.
+- 💬 Ask me about **python, javascript ,go and html-css**.
 
 - 📫 How to reach me **raazeshp96@gmail.com**.
   <br/>
